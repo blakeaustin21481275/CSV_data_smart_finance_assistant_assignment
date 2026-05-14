@@ -1,0 +1,201 @@
+date,description,amount,category
+14/05/2025,ALDI groceries,91.36,Food
+15/05/2025,Bakery snacks,9.54,Food
+21/05/2025,Doctor appointment,144.78,Health
+21/05/2025,Internet bill,101.52,Utilities
+21/05/2025,Streaming movie rental,5,Entertainment
+22/05/2025,Gym membership,91.71,Health
+23/05/2025,Pharmacy purchase,83.57,Health
+24/05/2025,Gym membership,83.53,Health
+26/05/2025,Lunch cafe,20.96,Food
+28/05/2025,IGA groceries,159.53,Food
+29/05/2025,Gym membership,91.29,Health
+30/05/2025,Streaming movie rental,9.76,Entertainment
+1/06/2025,Apartment rent,2085.06,Housing
+6/06/2025,Refund - grocery item,-43.45,Food
+7/06/2025,Parking fee,22.47,Transport
+8/06/2025,Water bill,70.52,Utilities
+11/06/2025,IGA groceries,164.02,Food
+11/06/2025,Parking fee,13.25,Transport
+12/06/2025,Electricity bill,141.63,Utilities
+13/06/2025,Beach parking,16.61,Entertainment
+13/06/2025,Gym membership,67.36,Health
+15/06/2025,Phone bill,60.63,Utilities
+18/06/2025,Petrol at BP,94.84,Transport
+19/06/2025,Car wash,26.98,Transport
+19/06/2025,Gym membership,55.01,Health
+20/06/2025,Coffee,6.73,Food
+22/06/2025,Netflix subscription,16.77,Subscriptions
+23/06/2025,Doctor appointment,137.08,Health
+23/06/2025,Refund - Uber adjustment,-23.32,Transport
+23/06/2025,Streaming movie rental,8.4,Entertainment
+25/06/2025,Coles groceries,103.85,Food
+25/06/2025,Museum entry,31.68,Entertainment
+28/06/2025,Pub dinner,68.94,Entertainment
+1/07/2025,Apartment rent,2115.29,Housing
+8/07/2025,Concert ticket,195.67,Entertainment
+8/07/2025,Water bill,69.26,Utilities
+9/07/2025,Woolworths groceries,96.23,Food
+12/07/2025,Electricity bill,163.63,Utilities
+13/07/2025,Internet bill,107.5,Utilities
+15/07/2025,Phone bill,59.32,Utilities
+18/07/2025,Petrol at BP,94.56,Transport
+22/07/2025,Netflix subscription,17.27,Subscriptions
+23/07/2025,Woolworths groceries,165.68,Food
+1/08/2025,Apartment rent,1885.73,Housing
+1/08/2025,Streaming movie rental,10.28,Entertainment
+6/08/2025,IGA groceries,181.4,Food
+8/08/2025,Water bill,67.16,Utilities
+11/08/2025,Coffee,7.84,Food
+12/08/2025,Electricity bill,115.8,Utilities
+15/08/2025,Phone bill,63.36,Utilities
+18/08/2025,Petrol at BP,86.74,Transport
+18/08/2025,Pub dinner,66.48,Entertainment
+20/08/2025,Woolworths groceries,93.08,Food
+22/08/2025,Netflix subscription,18.63,Subscriptions
+22/08/2025,Streaming movie rental,11.56,Entertainment
+1/09/2025,Apartment rent,1871.68,Housing
+3/09/2025,Coles groceries,73.91,Food
+8/09/2025,Water bill,71.58,Utilities
+12/09/2025,Electricity bill,163.52,Utilities
+13/09/2025,Bakery snacks,17.22,Food
+15/09/2025,Concert ticket,193.61,Entertainment
+15/09/2025,Phone bill,48.33,Utilities
+17/09/2025,Coles groceries,139.93,Food
+18/09/2025,JB Hi-Fi electronics,216.65,Shopping
+18/09/2025,Petrol at BP,117.42,Transport
+21/09/2025,Gym membership,58.73,Health
+22/09/2025,Netflix subscription,22.56,Subscriptions
+28/09/2025,Cinema ticket,29.52,Entertainment
+1/10/2025,Apartment rent,2263.39,Housing
+1/10/2025,IGA groceries,112.18,Food
+2/10/2025,Lunch cafe,18.22,Food
+4/10/2025,Target purchase,89.31,Shopping
+5/10/2025,Cinema ticket,25.83,Entertainment
+6/10/2025,Internet bill,107.27,Utilities
+8/10/2025,Water bill,62.99,Utilities
+12/10/2025,Electricity bill,114.97,Utilities
+12/10/2025,Officeworks stationery,20.1,Education
+14/10/2025,Doctor appointment,71.13,Health
+15/10/2025,ALDI groceries,83.39,Food
+15/10/2025,Lunch cafe,18.95,Food
+15/10/2025,Phone bill,62.43,Utilities
+18/10/2025,Petrol at BP,142.99,Transport
+19/10/2025,Concert ticket,201.35,Entertainment
+22/10/2025,Netflix subscription,15.73,Subscriptions
+28/10/2025,Officeworks stationery,54.59,Education
+28/10/2025,Transperth fare,3.26,Transport
+29/10/2025,ALDI groceries,76.43,Food
+29/10/2025,Bowling night,22.24,Entertainment
+1/11/2025,Apartment rent,1992.9,Housing
+1/11/2025,Refund - electronics return,-237.79,Shopping
+3/11/2025,Refund - Uber adjustment,-15.33,Transport
+7/11/2025,Beach parking,10.59,Entertainment
+8/11/2025,Water bill,69.25,Utilities
+12/11/2025,ALDI groceries,174.44,Food
+12/11/2025,Electricity bill,139.2,Utilities
+12/11/2025,JB Hi-Fi electronics,411.98,Shopping
+15/11/2025,Phone bill,68.74,Utilities
+17/11/2025,Transperth fare,7.12,Transport
+18/11/2025,Petrol at BP,136.95,Transport
+19/11/2025,Refund - electronics return,-114.15,Shopping
+22/11/2025,Netflix subscription,20.06,Subscriptions
+26/11/2025,IGA groceries,139.67,Food
+28/11/2025,Internet bill,80.75,Utilities
+1/12/2025,Apartment rent,2213.81,Housing
+1/12/2025,Bowling night,52.53,Entertainment
+1/12/2025,Gym membership,72,Health
+4/12/2025,Refund - grocery item,-30.62,Food
+8/12/2025,Coffee,6.1,Food
+8/12/2025,Water bill,63.98,Utilities
+10/12/2025,ALDI groceries,103.54,Food
+12/12/2025,Electricity bill,178.17,Utilities
+13/12/2025,Internet bill,99.14,Utilities
+15/12/2025,Phone bill,58.33,Utilities
+18/12/2025,Parking fee,4.19,Transport
+18/12/2025,Petrol at BP,111.87,Transport
+21/12/2025,Gym membership,80.03,Health
+22/12/2025,Netflix subscription,16.59,Subscriptions
+23/12/2025,Concert ticket,88.77,Entertainment
+24/12/2025,IGA groceries,91.21,Food
+24/12/2025,Streaming movie rental,12.86,Entertainment
+27/12/2025,Gym membership,62.69,Health
+28/12/2025,Kmart purchase,35.95,Shopping
+29/12/2025,Beach parking,19.33,Entertainment
+31/12/2025,Dinner takeaway,48.06,Food
+1/01/2026,Apartment rent,2407.14,Housing
+2/01/2026,Parking fee,21.69,Transport
+5/01/2026,Internet bill,78.13,Utilities
+7/01/2026,ALDI groceries,84.59,Food
+8/01/2026,Water bill,48.99,Utilities
+9/01/2026,Gym membership,70.67,Health
+12/01/2026,Electricity bill,171.24,Utilities
+13/01/2026,Kmart purchase,95.41,Shopping
+14/01/2026,Beach parking,12.47,Entertainment
+15/01/2026,Phone bill,59.92,Utilities
+18/01/2026,Petrol at BP,80.92,Transport
+18/01/2026,Refund - grocery item,-10.21,Food
+21/01/2026,IGA groceries,130.32,Food
+22/01/2026,Netflix subscription,18.39,Subscriptions
+24/01/2026,Bakery snacks,14.93,Food
+25/01/2026,Coffee,5.97,Food
+26/01/2026,Refund - grocery item,-9.44,Food
+26/01/2026,Uber ride,63.69,Transport
+1/02/2026,Apartment rent,2286.34,Housing
+3/02/2026,Streaming movie rental,14.18,Entertainment
+4/02/2026,Woolworths groceries,157.6,Food
+7/02/2026,Officeworks stationery,46.28,Education
+8/02/2026,Water bill,84.57,Utilities
+11/02/2026,Kmart purchase,52.35,Shopping
+12/02/2026,Car wash,20.9,Transport
+12/02/2026,Electricity bill,125.05,Utilities
+15/02/2026,Phone bill,84.43,Utilities
+18/02/2026,Coles groceries,79.43,Food
+18/02/2026,Petrol at BP,121.96,Transport
+19/02/2026,Streaming movie rental,7.42,Entertainment
+20/02/2026,Gym membership,66.96,Health
+22/02/2026,Netflix subscription,21.76,Subscriptions
+24/02/2026,Bakery snacks,7.93,Food
+26/02/2026,Pharmacy purchase,43.93,Health
+1/03/2026,Apartment rent,2364.74,Housing
+2/03/2026,Dinner takeaway,30.45,Food
+4/03/2026,ALDI groceries,100.52,Food
+8/03/2026,Water bill,60.72,Utilities
+9/03/2026,Refund - cancelled booking,-44.9,Entertainment
+10/03/2026,Pharmacy purchase,79.41,Health
+12/03/2026,Electricity bill,158.26,Utilities
+14/03/2026,Doctor appointment,108.32,Health
+15/03/2026,Phone bill,64.2,Utilities
+18/03/2026,ALDI groceries,86.75,Food
+18/03/2026,Petrol at BP,112.22,Transport
+19/03/2026,Lunch cafe,23.66,Food
+20/03/2026,Bowling night,21.95,Entertainment
+22/03/2026,Dinner takeaway,34.65,Food
+22/03/2026,Netflix subscription,20.39,Subscriptions
+27/03/2026,Transperth fare,9.84,Transport
+31/03/2026,Pharmacy purchase,84.92,Health
+1/04/2026,Apartment rent,1862.73,Housing
+1/04/2026,Coles groceries,115.54,Food
+1/04/2026,Lunch cafe,27.2,Food
+8/04/2026,Streaming movie rental,14.68,Entertainment
+8/04/2026,Water bill,46.76,Utilities
+12/04/2026,Electricity bill,144.84,Utilities
+15/04/2026,Coles groceries,177.38,Food
+15/04/2026,Phone bill,75.23,Utilities
+18/04/2026,Petrol at BP,117.14,Transport
+21/04/2026,Cinema ticket,19.73,Entertainment
+21/04/2026,Dinner takeaway,32.1,Food
+22/04/2026,Kmart purchase,35.04,Shopping
+22/04/2026,Netflix subscription,17.67,Subscriptions
+23/04/2026,Doctor appointment,87.05,Health
+29/04/2026,Woolworths groceries,91.02,Food
+1/05/2026,Apartment rent,1766.96,Housing
+7/05/2026,Museum entry,15.13,Entertainment
+8/05/2026,Water bill,65.7,Utilities
+9/05/2026,JB Hi-Fi electronics,342.58,Shopping
+12/05/2026,Electricity bill,135.87,Utilities
+13/05/2026,Coles groceries,107.96,Food
+14/05/2026,Target purchase,54.07,Shopping
+15/05/2026,Phone bill,45.05,Utilities
+18/05/2026,Petrol at BP,142.03,Transport
+22/05/2026,Netflix subscription,21.59,Subscriptions
